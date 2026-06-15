@@ -2,7 +2,6 @@
   <img alt="status" src="https://img.shields.io/badge/status-active%20research-7B61FF?style=for-the-badge">
   <img alt="scope" src="https://img.shields.io/badge/public%20repo-no%20source%20code-0B7285?style=for-the-badge">
   <img alt="domain" src="https://img.shields.io/badge/domain-active%20ionosphere%20modeling-1C7ED6?style=for-the-badge">
-  <img alt="platform" src="https://img.shields.io/badge/modeling-Gemini3D%20adaptation-6741D9?style=for-the-badge">
 </p>
 
 # Active Ionospheric Heating Simulation Platform
@@ -11,19 +10,9 @@
 
 [← Back to main profile](README.md)
 
-## Page navigation
-
-- [HAARP Facility](#haarp-facility)
-- [What problem this project addresses](#what-problem-this-project-addresses)
-- [Scientific vision](#scientific-vision)
-- [Platform concept](#platform-concept)
-- [Current status](#current-status)
-
----
-
 This project develops a simulation framework for investigating active ionospheric modification experiments using physics-based numerical modeling. The goal is to study how controlled radio-frequency heating of a localized ionospheric region can produce measurable changes in plasma density, electron temperature, conductivity, electrodynamic structure, current closure, and wave–plasma interaction conditions.
 
-Active ionospheric modification experiments provide a rare opportunity to perturb near-Earth plasma under controlled conditions, but the resulting response is governed by a strongly coupled system. Background plasma density, magnetic-field geometry, solar and geomagnetic activity, heating altitude, deposited energy, modulation pattern, conductivity structure, and current closure all influence how the ionosphere evolves. A dedicated numerical platform is therefore needed to examine these dependencies systematically, evaluate experimental scenarios before transmission, and interpret observed responses.
+Active ionospheric modification experiments provide a rare opportunity to perturb near-Earth plasma under controlled conditions, but the resulting response is governed by a strongly coupled system. Background plasma density, magnetic-field geometry, solar and geomagnetic activity, heating altitude, deposited energy, modulation pattern, conductivity structure, and current closure all influence how the ionosphere evolves. A dedicated numerical platform is therefore needed to examine these dependencies systematically, evaluate experimental scenarios before transmission, and interpretation of observed responses.
 
 
 
@@ -41,7 +30,6 @@ Active ionospheric modification experiments provide a rare opportunity to pertur
 
 **HAARP**, the High-frequency Active Auroral Research Program, is a scientific facility operated by the University of Alaska Fairbanks for studying the ionosphere using a high-power HF phased-array transmitter and supporting diagnostics. The public purpose of this project is to develop a numerical modeling pathway that can help interpret, design, and pre-evaluate ionospheric heating procedures.
 
-**Gemini3D** is an external three-dimensional ionospheric fluid-electrodynamic model. This project does not claim authorship of Gemini3D. Instead, it uses Gemini3D/PyGemini as part of a broader research platform for active ionospheric modification studies.
 
 ---
 
