@@ -21,6 +21,11 @@ A numerical research platform for studying how controlled high-frequency heating
 
 **Open the project:** [Active Ionospheric Heating Simulation Platform](ACTIVE_IONOSPHERIC_HEATING.md)
 
+### Magnetospheric Duct Detection
+AI-enabled detection of magnetospheric ducting structures from observations.
+
+➡️ **Open the project:** [Magnetospheric Duct Detection](https://github.com/SANejad/Magnetosphericn-B-duct-detection)
+
 ## Contact
 
 For research collaboration, project discussion, or space-plasma modeling questions, feel free to reach out through GitHub.
