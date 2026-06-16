@@ -19,10 +19,11 @@ I study wave–plasma interactions in the near-Earth space environment, with a f
 
 A numerical research platform for studying how controlled high-frequency heating modifies the ionosphere and produces measurable changes in plasma density, temperature, conductivity, electrodynamic structure, currents, and wave–plasma interaction conditions.
 
-**Open the project:** [Active Ionospheric Heating Simulation Platform](ACTIVE_IONOSPHERIC_HEATING.md)
+➡️ **Open the project:** [Active Ionospheric Heating Simulation Platform](ACTIVE_IONOSPHERIC_HEATING.md)
 
 ### Magnetospheric Duct Detection
-AI-enabled detection of magnetospheric ducting structures from observations.
+
+Observations show localized magnetospheric ducting events associated with structured magnetic-field and plasma-density variations. This project is a prototype AI pipeline for detecting these duct events from observations.
 
 ➡️ **Open the project:** [Magnetospheric Duct Detection](https://github.com/SANejad/Magnetosphericn-B-duct-detection)
 
