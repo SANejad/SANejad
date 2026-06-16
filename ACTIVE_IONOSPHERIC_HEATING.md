@@ -23,7 +23,7 @@ Active ionospheric modification experiments provide a rare opportunity to pertur
 ## HAARP Facility
 
 <p align="center">
-  <img src="https://www.uaf.edu/news/images/HAARParray.jpeg" alt="HAARP antenna array, UAF/GI photo by JR Ancheta" width="92%">
+  <img src="https://www.uaf.edu/news/images/HAARParray.jpeg" alt="HAARP antenna array, UAF/GI photo by JR Ancheta" width="85%">
 </p>
 
 <p align="center"><sub>HAARP antenna array. Public UAF/GI image; photo credit: JR Ancheta. Used here only as facility context.</sub></p>
