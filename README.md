@@ -19,7 +19,7 @@ I study wave–plasma interactions in the near-Earth space environment, with a f
 <tr>
 <td>
 
-### 🔥 Active Ionospheric Heating Simulation Platform
+### Active Ionospheric Heating Simulation Platform
 
 A physics-based numerical platform for studying how controlled high-frequency heating modifies the ionosphere. The project examines changes in plasma density, temperature, conductivity, currents, electrodynamic structure, and wave–plasma interaction conditions under different ionospheric backgrounds and heating scenarios.
 
@@ -39,7 +39,7 @@ A physics-based numerical platform for studying how controlled high-frequency he
 <tr>
 <td>
 
-### 🛰️ Magnetospheric Duct Detection
+### Magnetospheric Duct Detection
 
 An observation-driven project focused on identifying localized magnetospheric ducting events associated with structured magnetic-field and plasma-density variations. The project includes an AI-assisted pipeline for detecting and classifying duct-like structures in spacecraft observations.
 
@@ -59,12 +59,12 @@ An observation-driven project focused on identifying localized magnetospheric du
 <tr>
 <td>
 
-### 🌌 Plasma Duct Morphology and Whistler-Mode Wave Dynamics
+### Plasma Duct Morphology and Whistler-Mode Wave Dynamics
 
 A three-dimensional investigation of plasma-duct structure and whistler-mode wave dynamics. The project examines how wave activity is embedded within magnetic-field and plasma-density structures, how duct morphology evolves, and how duct geometry controls wave localization, confinement, leakage, and propagation pathways.
 
 ![Status](https://img.shields.io/badge/status-active%20research-6F42C1)
-![Domain](https://img.shields.io/badge/domain-whistler--mode%20waves-1C7ED6)
+![Domain](https://img.shields.io/badge/domain-magnetospheric%20ducts-1C7ED6)
 ![Method](https://img.shields.io/badge/method-3D%20modeling%20%2B%20observations-0B7285)
 
 **[Explore the project →](PLASMA_DUCT_MORPHOLOGY.md)**
