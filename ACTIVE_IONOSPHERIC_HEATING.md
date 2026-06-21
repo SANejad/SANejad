@@ -8,7 +8,7 @@
 
 > **A numerical research platform for studying how controlled high-frequency heating modifies the ionosphere.**
 
-[← Back to main profile](README.md)
+[← Back to main profile](https://github.com/SANejad)
 
 This project develops a simulation framework for investigating active ionospheric modification experiments using physics-based numerical modeling. The goal is to study how controlled radio-frequency heating of a localized ionospheric region can produce measurable changes in plasma density, electron temperature, conductivity, electrodynamic structure, current closure, and wave–plasma interaction conditions.
 
