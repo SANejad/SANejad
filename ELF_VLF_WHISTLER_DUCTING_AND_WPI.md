@@ -42,4 +42,4 @@ The study combines spacecraft observations, three-dimensional reconstruction, pl
 
 ## Current status
 
-The observational reconstruction, three-dimensional visualization, and wave–duct analysis workflow is under active development.
+The project workflow is under active development.
