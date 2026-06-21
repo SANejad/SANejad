@@ -9,7 +9,7 @@ This project investigates the three-dimensional geometry and time-dependent evol
 ## Observation-based 3D visualization
 
 <p align="center">
-  <img src="assets/observations/mms_wave_duct_morphology.png" alt="Observation-based 3D visualization of whistler-mode wave power embedded in magnetic-field structure" width="92%">
+  <img src="assets/observations/mms_wave_duct_animation-3.gif" alt="Observation-based 3D visualization of whistler-mode wave power embedded in magnetic-field structure" width="92%">
 </p>
 
 <p align="center">
