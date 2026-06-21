@@ -35,7 +35,7 @@ Observations show localized magnetospheric ducting events associated with struct
 
 This project studies the 3D geometry of the duct environment and how the wave is embedded in magnetic and plasma structures, how those structures evolve, and how different duct morphologies control the observed wave pattern.
 
-➡️ **Open the project:** [Plasma Duct Morphology and Whistler-Mode Wave Dynamics](https://github.com/SANejad/Magnetosphericn-B-duct-detection)
+➡️ **Open the project:** [Plasma Duct Morphology and Whistler-Mode Wave Dynamics](PLASMA_DUCT_MORPHOLOGY.md)
 
 ## Contact
 
