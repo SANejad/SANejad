@@ -1,0 +1,100 @@
+# Plasma Duct Morphology and Whistler-Mode Wave Dynamics
+
+> **A three-dimensional study of how structured plasma environments organize the localization, guiding, and evolution of whistler-mode wave activity.**
+
+This project investigates the three-dimensional geometry and time-dependent evolution of plasma ducts that organize whistler-mode wave propagation in the near-Earth magnetosphere. Using multi-spacecraft observations, three-dimensional reconstruction, and numerical modeling, the study examines how magnetic-field intensity, plasma density, and wave-power distributions are arranged relative to one another; how duct boundaries, shelves, and internal gradients evolve; and how these structures control wave localization, guiding, leakage, and changes in propagation direction. The emphasis is on the morphology of the duct environment and the dynamics of the wave field within it. Resonant wave–particle interactions are addressed in a separate project.
+
+---
+
+## Observation-based 3D visualization
+
+<p align="center">
+  <img src="assets/observations/mms_wave_duct_morphology.png" alt="Observation-based 3D visualization of whistler-mode wave power embedded in magnetic-field structure" width="92%">
+</p>
+
+<p align="center">
+  <em>Observation-based three-dimensional reconstruction of an MMS whistler-mode event. The translucent magnetic-field structures are shown together with the spatial distribution of wave power. The orange vector indicates the local background-field direction, while the black vector marks the wave-envelope direction. The visualization is used to examine how the observed wave packet is embedded within the surrounding plasma structure and whether its localization and propagation are organized by the duct geometry.</em>
+</p>
+
+---
+
+## Scientific objective
+
+A plasma duct is a volumetric structure, whereas an individual spacecraft samples only a trajectory through that structure. The central objective of this project is to reconstruct and model the surrounding three-dimensional environment well enough to determine how the observed wave activity is related to the geometry of magnetic-field and density variations. The study therefore focuses on the spatial organization of the wave packet rather than treating the measurements only as one-dimensional time series.
+
+The analysis is designed to determine:
+
+- whether enhanced wave power is concentrated inside a distinct magnetic, density, or combined plasma structure;
+- how the duct axis and boundaries are oriented relative to the background magnetic field and the wave-envelope direction;
+- whether shelf-like, peaked, depleted, or asymmetric duct morphologies produce different wave-power distributions;
+- how internal gradients and boundary curvature influence guiding, confinement, leakage, or redirection of the wave packet;
+- how the reconstructed structure changes as the spacecraft constellation moves through the event;
+- which observed features are consistent with a spatial duct and which may instead reflect temporal evolution.
+
+---
+
+## Research approach
+
+The project combines three complementary elements:
+
+### Multi-spacecraft observations
+
+Measurements from a spacecraft constellation are used to characterize the local magnetic field, plasma density, wave spectra, spacecraft separation, and the timing of the observed wave packet. The multi-point geometry provides the basis for estimating spatial gradients and reconstructing the local plasma environment.
+
+### Three-dimensional reconstruction
+
+Magnetic-field magnitude, density structure, and wave-power distributions are placed in a common local coordinate system. Their relative geometry is then examined through volumetric surfaces, spatial interpolation, spacecraft trajectories, local field directions, and wave-envelope directions. The aim is to identify the shape, orientation, scale, and internal organization of the structure associated with the wave event.
+
+### Numerical morphology studies
+
+Controlled numerical cases are used to test how different duct shapes affect whistler-mode wave behavior. These cases include magnetic enhancements and depressions, density enhancements and depletions, shelf-like transitions, asymmetric boundaries, and combined magnetic–density structures. The simulations are used to isolate the role of geometry and gradients in the observed wave morphology.
+
+---
+
+## Main physical questions
+
+1. **Where is the wave energy located relative to the duct?**  
+   Is the strongest wave power centered inside the structure, concentrated near a boundary, or distributed across multiple connected regions?
+
+2. **What defines the duct?**  
+   Is the relevant structure primarily magnetic, primarily density controlled, or produced by the combined variation of both quantities?
+
+3. **How does geometry affect propagation?**  
+   Do elongated, curved, asymmetric, or shelf-like structures produce different guiding and leakage patterns?
+
+4. **How is the wave oriented inside the structure?**  
+   How do the wave-envelope direction, local background field, duct axis, and spacecraft trajectories relate to one another in three dimensions?
+
+5. **How does the structure evolve?**  
+   Does the reconstructed morphology remain coherent during the event, or does the apparent duct change as the wave packet develops and the spacecraft constellation moves?
+
+---
+
+## Project scope
+
+This project is centered on **three-dimensional plasma structuring and whistler-mode wave morphology**. Its primary outputs are spatial reconstructions, morphology classifications, propagation-path diagnostics, and controlled numerical comparisons among different duct configurations. It does not attempt to make wave–particle interaction the central subject. Particle resonance, acceleration, scattering, and energy exchange are treated separately so that the geometrical and propagation problem can first be resolved on its own terms.
+
+---
+
+## Expected products
+
+The project is being developed to produce:
+
+- observation-based 3D reconstructions of magnetic, density, and wave-power structure;
+- quantitative measures of duct width, orientation, asymmetry, curvature, and boundary gradients;
+- comparisons among magnetic ducts, density ducts, shelves, and compound structures;
+- time-dependent visualizations of wave localization within the reconstructed environment;
+- controlled numerical studies of guiding, confinement, redirection, and leakage;
+- a morphology-based framework for comparing observed and simulated whistler-mode events.
+
+---
+
+## Current status
+
+The observational reconstruction and visualization workflow is under active development. Current work focuses on refining the common 3D coordinate system, testing the stability of volumetric reconstructions, comparing alternative duct morphologies, and connecting the observed wave-power distribution to controlled numerical cases. Additional event reconstructions and validated simulation results will be added as the analysis progresses.
+
+---
+
+<p align="center">
+  <em>This page presents the scientific scope of an active research project. Detailed analysis code and unpublished implementation methods are not included.</em>
+</p>
