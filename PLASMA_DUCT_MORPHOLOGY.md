@@ -2,6 +2,8 @@
 
 > **A three-dimensional study of how structured plasma environments organize the localization, guiding, and evolution of whistler-mode wave activity.**
 
+[← Back to main profile](README.md)
+
 This project investigates the three-dimensional geometry and time-dependent evolution of plasma ducts that organize whistler-mode wave propagation in the near-Earth magnetosphere. Using multi-spacecraft observations, three-dimensional reconstruction, and numerical modeling, the study examines how magnetic-field intensity, plasma density, and wave-power distributions are arranged relative to one another; how duct boundaries, shelves, and internal gradients evolve; and how these structures control wave localization, guiding, leakage, and changes in propagation direction. The emphasis is on the morphology of the duct environment and the dynamics of the wave field within it. 
 
 <p align="center">
