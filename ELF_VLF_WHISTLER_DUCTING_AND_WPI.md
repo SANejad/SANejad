@@ -18,7 +18,7 @@ Ducting introduces an additional control on this process. Plasma-density and mag
 <p align="center">
   <img src="assets/observations/mms_whistler_shelf_event.png"
        alt="MMS whistler-mode event associated with a magnetic shelf-duct structure"
-       width="90%">
+       width="60%">
 </p>
 
 <p align="center">
