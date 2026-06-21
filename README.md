@@ -27,10 +27,6 @@ Observations show localized magnetospheric ducting events associated with struct
 
 ➡️ **Open the project:** [Magnetospheric Duct Detection](https://github.com/SANejad/Magnetosphericn-B-duct-detection)
 
-### Magnetospheric Duct Detection
-
-Observations show localized magnetospheric ducting events associated with structured magnetic-field and plasma-density variations. This project is a prototype AI pipeline for detecting these duct events from observations.
-
 ### Plasma Duct Morphology and Whistler-Mode Wave Dynamics
 
 This project studies the 3D geometry of the duct environment and how the wave is embedded in magnetic and plasma structures, how those structures evolve, and how different duct morphologies control the observed wave pattern.
