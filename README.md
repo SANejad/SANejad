@@ -69,6 +69,12 @@ A three-dimensional investigation of plasma-duct structure and whistler-mode wav
 
 **[Explore the project →](PLASMA_DUCT_MORPHOLOGY.md)**
 
+</td>
+</tr>
+</table>
+
+<br>
+
 <table width="100%">
 <tr>
 <td>
@@ -87,9 +93,6 @@ An investigation of how plasma-density and magnetic-field structures guide ELF/V
 </tr>
 </table>
 
-</td>
-</tr>
-</table>
 
 ## Contact
 
