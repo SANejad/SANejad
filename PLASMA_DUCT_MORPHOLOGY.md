@@ -7,7 +7,7 @@
 This project investigates the three-dimensional geometry and time-dependent evolution of plasma ducts that organize whistler-mode wave propagation in the near-Earth magnetosphere. Using multi-spacecraft observations, three-dimensional reconstruction, and numerical modeling, the study examines how magnetic-field intensity, plasma density, and wave-power distributions are arranged relative to one another; how duct boundaries, shelves, and internal gradients evolve; and how these structures control wave localization, guiding, leakage, and changes in propagation direction. The emphasis is on the morphology of the duct environment and the dynamics of the wave field within it. 
 
 <p align="center">
-  <img src="assets/observations/mms_wave_duct_animation-3.gif" alt="Observation-based 3D visualization of whistler-mode wave power embedded in magnetic-field structure" width="92%">
+  <img src="assets/observations/mms_wave_duct_animation-3.gif" alt="3D visualization of whistler-mode wave power embedded in a magnetic-field structure (By S.A. Nejad)" width="92%">
 </p>
 
 <p align="left"><sub>Spatial reconstructions of a whistler-mode wave trapped inside the low-magnetic duct, observed by an MMS. The magnetic-field structures are shown together with the spatial distribution of wave power. The orange vector indicates the local background-field direction, while the black vector marks the wave-envelope direction. The visualization is used to examine how the observed wave packet is embedded within the surrounding plasma structure and whether its localization and propagation are organized by the duct geometry.</em>
