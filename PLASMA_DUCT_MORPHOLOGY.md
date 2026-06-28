@@ -10,7 +10,7 @@ This project investigates the three-dimensional geometry and time-dependent evol
   <img src="assets/observations/mms_wave_duct_animation-3.gif" alt="3D visualization of whistler-mode wave power embedded in a magnetic-field structure (By S.A. Nejad)" width="92%">
 </p>
 
-<p align="left"><sub>Spatial reconstructions of a whistler-mode wave trapped inside the low-magnetic duct, observed by an MMS. The magnetic-field structures are shown together with the spatial distribution of wave power. The orange vector indicates the local background-field direction, while the black vector marks the wave-envelope direction. The visualization is used to examine how the observed wave packet is embedded within the surrounding plasma structure and whether its localization and propagation are organized by the duct geometry.</em>
+<p align="left"><sub>Spatial reconstructions of a whistler-mode wave trapped inside the low-magnetic duct, observed by an MMS (rendered by S.A. Nejad). The magnetic-field structures are shown together with the spatial distribution of wave power. The orange vector indicates the local background-field direction, while the black vector marks the wave-envelope direction. The visualization is used to examine how the observed wave packet is embedded within the surrounding plasma structure and whether its localization and propagation are organized by the duct geometry.</em>
 </p>
 
 ---
