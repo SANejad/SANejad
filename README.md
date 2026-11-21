@@ -1,6 +1,6 @@
 # Hi, I'm Sal — Space Plasma Physicist
 
-I study wave–plasma interactions in the near-Earth space environment, with a focus on how structured ionospheric and magnetospheric plasmas control wave propagation, and particle dynamics, and space whether.
+I study wave–plasma interactions in the near-Earth space environment, with a focus on how structured ionospheric and magnetospheric plasmas control wave propagation, and particle dynamics, and space weather.
 
 ## Research
 - Ionosphere–magnetosphere coupling
@@ -19,9 +19,10 @@ I study wave–plasma interactions in the near-Earth space environment, with a f
 <tr>
 <td>
 
-### Active Ionospheric Heating Simulation Platform
+### <a href="ACTIVE_IONOSPHERIC_HEATING.md"><img align="left" width="112" src="assets/profile/strum-icon.webp" alt="STRUM icon: a beam rising from the antennas of the HAARP array"></a>Active Ionospheric Heating Simulation Platform
 
-A physics-based numerical platform for studying how controlled high-frequency heating modifies the ionosphere. The project examines changes in plasma density, temperature, conductivity, currents, electrodynamic structure, and wave–plasma interaction conditions under different ionospheric backgrounds and heating scenarios.
+**STRUM (Simulator of Transmitter Response in the Upper atmosphere and Magnetosphere)**<br>
+A numerical platform for heating experiments at HAARP with ULF and VLF modulation, written from the governing equations. It follows the beams from the array through the lower ionosphere and up the magnetic flux tube: the heated electrons, the currents they drive, and the ULF and VLF signals at the receivers. An inverse mode fits the model to the records of an experiment, and physics-informed neural networks solve parts of the same equations. To strum is to sweep a hand across the strings of a harp.
 
 ![Status](https://img.shields.io/badge/status-active%20research-6F42C1)
 ![Domain](https://img.shields.io/badge/domain-ionospheric%20modification-1C7ED6)
@@ -39,15 +40,15 @@ A physics-based numerical platform for studying how controlled high-frequency he
 <tr>
 <td>
 
-### Magnetospheric Duct Detection
+### <a href="https://github.com/SANejad/DuctLab-Overview"><img align="left" width="112" src="assets/profile/ductlab-icon.webp" alt="DuctLab icon: whistler waves inside a dip in the magnetic field strength"></a>Magnetospheric Duct Observation and Analysis
 
-An observation-driven project focused on identifying localized magnetospheric ducting events associated with structured magnetic-field and plasma-density variations. The project includes an AI-assisted pipeline for detecting and classifying duct-like structures in spacecraft observations.
+**DuctLab** is the AI-assisted platform I'm building to detect magnetospheric ducts in NASA's MMS data across the whole mission. A detector picks out localized structures in the magnetic field and plasma density, machine-learning models score them, and every label my colleagues and I give goes into training the next model.
 
 ![Status](https://img.shields.io/badge/status-active%20research-6F42C1)
 ![Domain](https://img.shields.io/badge/domain-magnetospheric%20ducts-1C7ED6)
 ![Method](https://img.shields.io/badge/method-AI%20%2B%20observations-D97706)
 
-**[Explore the project →](https://github.com/SANejad/Magnetosphericn-B-duct-detection)**
+**[Explore the project →](https://github.com/SANejad/DuctLab-Overview)**
 
 </td>
 </tr>
@@ -59,7 +60,7 @@ An observation-driven project focused on identifying localized magnetospheric du
 <tr>
 <td>
 
-### Plasma Duct Morphology and Whistler-Mode Wave Dynamics
+### <a href="PLASMA_DUCT_MORPHOLOGY.md"><picture><source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/SANejad/SANejad/main/assets/profile/duct-morphology-icon-still.webp"><img align="left" width="112" src="assets/profile/duct-morphology-icon.webp" alt="Rotating 3D visualization of whistler-mode wave power embedded in a magnetic-field structure (by S.A. Nejad)"></picture></a>Plasma Duct Morphology and Whistler-Mode Wave Dynamics
 
 A three-dimensional investigation of plasma-duct structure and whistler-mode wave dynamics. The project examines how wave activity is embedded within magnetic-field and plasma-density structures, how duct morphology evolves, and how duct geometry controls wave localization, confinement, leakage, and propagation pathways.
 
