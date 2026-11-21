@@ -40,7 +40,7 @@ A numerical platform for heating experiments at HAARP with ULF and VLF modulatio
 <tr>
 <td>
 
-### <a href="https://github.com/SANejad/DuctLab-Overview"><img align="left" width="112" src="assets/profile/ductlab-icon.webp" alt="DuctLab icon: whistler waves inside a dip in the magnetic field strength"></a>Magnetospheric Duct Observation and Analysis
+### <a href="https://sanejad.github.io/DuctLab-Overview/"><img align="left" width="112" src="assets/profile/ductlab-icon.webp" alt="DuctLab icon: whistler waves inside a dip in the magnetic field strength"></a>Magnetospheric Duct Observation and Analysis
 
 **DuctLab** is the AI-assisted platform I'm building to detect magnetospheric ducts in NASA's MMS data across the whole mission. A detector picks out localized structures in the magnetic field and plasma density, machine-learning models score them, and every label my colleagues and I give goes into training the next model.
 
@@ -48,7 +48,7 @@ A numerical platform for heating experiments at HAARP with ULF and VLF modulatio
 ![Domain](https://img.shields.io/badge/domain-magnetospheric%20ducts-1C7ED6)
 ![Method](https://img.shields.io/badge/method-AI%20%2B%20observations-D97706)
 
-**[Explore the project →](https://github.com/SANejad/DuctLab-Overview)**
+**[Explore the project →](https://sanejad.github.io/DuctLab-Overview/)**
 
 </td>
 </tr>
@@ -94,6 +94,26 @@ An investigation of how plasma-density and magnetic-field structures guide ELF/V
 </tr>
 </table>
 
+
+<br>
+
+<table width="100%">
+<tr>
+<td>
+
+### <a href="SOLAR_WIND_WAVE_DUCTING.md"><img align="left" width="112" src="assets/profile/solar-wind-icon.webp" alt="Icon: Earth's magnetosphere and magnetosheath, the bow shock, and waves in the solar wind upstream of it"></a>Pickup-Ion Waves and Wave Ducting in the Solar Wind
+
+An observational study with data from NASA's IMAP mission at the Sun–Earth L1 point and from Parker Solar Probe closer to the Sun. The project examines how density and magnetic-field structures in the solar wind, such as channels, dips, and discontinuities, guide ion-cyclotron and whistler-mode waves, and when waves driven by interstellar pickup ions can grow above the solar-wind turbulence.
+
+![Status](https://img.shields.io/badge/status-active%20research-6F42C1)
+![Domain](https://img.shields.io/badge/domain-solar%20wind%20%2B%20pickup%20ions-1C7ED6)
+![Method](https://img.shields.io/badge/method-spacecraft%20observations%20%2B%20wave%20analysis-0B7285)
+
+**[Explore the project →](SOLAR_WIND_WAVE_DUCTING.md)**
+
+</td>
+</tr>
+</table>
 
 ## Contact
 
