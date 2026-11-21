@@ -80,7 +80,7 @@ A three-dimensional investigation of plasma-duct structure and whistler-mode wav
 <tr>
 <td>
 
-### ELF–VLF Whistler-Mode Wave Ducting and Wave–Particle Interaction
+### <a href="ELF_VLF_WHISTLER_DUCTING_AND_WPI.md"><img align="left" width="112" src="assets/profile/elf-vlf-icon.webp" alt="ELF–VLF icon: a whistler-mode wave packet guided along a magnetic field line inside a duct"></a>ELF–VLF Whistler-Mode Wave Ducting and Wave–Particle Interaction
 
 An investigation of how plasma-density and magnetic-field structures guide ELF/VLF whistler-mode waves and modify their interaction with energetic electrons. The project examines wave localization, propagation pathways, resonance conditions, and the role of ducting in particle acceleration, scattering, and precipitation.
 
